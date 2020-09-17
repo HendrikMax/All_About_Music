@@ -1,0 +1,20 @@
+Elixir polyweb coated medium strings 13-17-26-35-45-56
+
+Disadvantages:
+
+1 各个声部区别不明显
+2 由于Polyweb相对Nanoweb 来说coated的程度更甚，音色偏沉， 偏暗，没有一般uncoated strings 的明亮和区分度
+3 Bending 或者vibrato相对困难不少
+4 音的sustain不长
+5 即使bending 或者vibrato 琴弦的反应很“窄”， 这种感觉很难描述，像是你拼命想表达什么，它就像个推不动的大胖子一样嘟囔几句
+6 闷音听着也很奇怪
+7 一般的拍弦都有可能发不出声音
+
+Advantages：
+
+1 手感非常舒服，一个是由于coated， 另一个是因为琴弦相对较粗， 触感非常厚实
+2 琴弦杂音小很多
+3 张力很大，适合练习提高手指机能
+
+从声音层面来说，polyweb+medium gauge 并不是一个很好的选择
+2018/07/08
